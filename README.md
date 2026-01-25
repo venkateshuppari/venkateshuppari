@@ -1,3 +1,10 @@
+### 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virat_venky143/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upparivenkatesh/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VenkateshU60866)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Virat_venky)
+
 # 💫 About Me:
 I am Venkatesh Uppari, a Cloud & DevOps enthusiast focused on designing and deploying cloud-native applications and building production-grade cloud architectures using advanced AWS services. I enjoy contributing to DevOps-focused open-source projects and strongly believe that the best code is the one that deploys itself through automation.
 
