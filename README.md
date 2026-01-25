@@ -12,8 +12,6 @@ I am Venkatesh Uppari, a Cloud & DevOps enthusiast focused on designing and depl
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Virat_venky)
 
 ## 💻 Tech Stack
-
-### Programming & Core Skills
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://drive.google.com/file/d/1UuAr9J1fPgs4SsVSK-PkjBJeVkAgSgh1/view)
 [![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)](https://drive.google.com/file/d/1Xs3i7PO014P_P2_PR5dB2n-tfSsgjBN6/view)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1ceL1jzvgSSYSXv-MrHXwnIl7o7KPFHir/view)
