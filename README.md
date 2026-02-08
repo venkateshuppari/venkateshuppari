@@ -5,11 +5,11 @@ I am Venkatesh Uppari, a Cloud & DevOps enthusiast focused on designing and depl
 
 
 ### 🌐 Socials:
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virat_venky143/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upparivenkatesh/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VenkateshU60866)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Virat_venky)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upparivenkatesh987@gmail.com)
 
 ## 💻 Tech Stack
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://drive.google.com/file/d/1UuAr9J1fPgs4SsVSK-PkjBJeVkAgSgh1/view)
