@@ -1,5 +1,3 @@
-venkateshUppari README.ME
-
 # Hi 👋, I'm Venkatesh Uppari
 
 🎓 B.Tech CSE Student
