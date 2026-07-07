@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on Building Cloud & Full-Stack applications.<br><br>🤝 I'm looking to collaborate on Open-source Cloud Computing, DevOps, Full-Stack Web Development projects.<br><br>🫶 I'm looking for help with Advanced AWS architecture, Kubernetes, DevOps practices, System Design, and interview preparation for Software Engineer roles.<br><br>⚡ Fun fact I enjoy turning real-world problems into scalable web and cloud solutions, and I love participating in coding challenges and hackathons.
+👨‍💻 I'm currently working on Building Cloud & Full-Stack applications.🤝 I'm looking to collaborate on Open-source Cloud Computing, DevOps, Full-Stack Web Development projects.🫶 I'm looking for help with Advanced AWS architecture, Kubernetes, DevOps practices, System Design, and interview preparation for Software Engineer roles.⚡ Fun fact I enjoy turning real-world problems into scalable web and cloud solutions, and I love participating in coding challenges and hackathons.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upparivenkatesh/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/VenkateshU60866)
